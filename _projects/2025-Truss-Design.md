@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+description: Class project with Truss Analysis
+technologies: [calculator]
 image: "assets/images/IMG_9734.jpg"
 ---
 
