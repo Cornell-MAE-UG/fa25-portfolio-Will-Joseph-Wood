@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions
+title: Truss Design
 description: Class project with Truss Analysis
 technologies: [calculator]
 image: "assets/images/IMG_9734.jpg"
