@@ -3,7 +3,7 @@ layout: project
 title: Analysis of Functions
 description: Class project with Graphs
 technologies: [MATLAB, python]
-image: "C:\Users\Will\Downloads\IMG_9734.jpg"
+image: "assets/images/IMG_9734.jpg"
 ---
 
 
