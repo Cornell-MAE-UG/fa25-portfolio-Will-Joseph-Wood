@@ -2,7 +2,7 @@
 layout: project
 title: Truss Design
 description: Class project with Truss Analysis
-technologies: [calculator]
+technologies: [calculator, heat exchanger, thermometer]
 image: "assets/images/IMG_0584.jpg"
 ---
 
