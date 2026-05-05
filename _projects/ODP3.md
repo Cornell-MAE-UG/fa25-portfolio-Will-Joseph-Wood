@@ -2,7 +2,7 @@
 layout: project
 title: SLF Device Pitch
 description: Pitch for my mechanical device to deal with spotted lanternflys
-technologies: [None]
+technologies: [Anemoneter, Fusion360, Bandsaw, Power Supply, 3D-Printers]
 image: "assets/images/SLF_Blower.png"
 ---
 <section id="mae2250-project">
