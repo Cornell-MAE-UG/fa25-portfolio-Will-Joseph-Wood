@@ -231,9 +231,6 @@ image: "assets/images/SLF_Blower.png"
       given the “flighty” nature of the SLFs.
     </p>
 
-    <p>
-      - IMG_0421.MOV: Video of Testing via Blowing into the Tube
-    </p>
 
     <p>(need to increase wind pressure due to motor, see section on design improvements for details)</p>
 
