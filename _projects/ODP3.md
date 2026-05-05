@@ -41,7 +41,7 @@ image: "assets/images/SLF_Blower.png"
       Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
     </p>
 
-    <p>###Problem Statement:</p>
+    <p>Problem Statement:</p>
 
     <p>
       Just 1-2 adult spotted lantern flies (SLF) can taint a kilogram of grade slurry;
