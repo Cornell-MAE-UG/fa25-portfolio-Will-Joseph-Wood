@@ -52,6 +52,7 @@ This is better than the “status quo” because it eliminates SLF year-round wi
  This is better than the “status quo”  because it does not require any changes to the harvester and saves money because it is a one-time purchase, not a yearly cost. 
 
 Key risks / unknowns:
+
 Damage to grapes/vines.
 Test by seeing how much wind store-bought grapes can take before falling off the vine.
 Lanternflies getting stuck in the blower
@@ -62,10 +63,14 @@ Take weight samples of lanternflies and their grab force to calculate the amount
 Our questions:
 1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
 Decisions Affected: This would change our blower design, as we would need to prototype to make sure that we do not remove grapes as well as the SLFs.
+
 2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
 Decisions Affected: While this would not directly affect our decision making, this would clarify the impact on the end user, since we would be more aware of the negative impacts of SLF contamination, particularly in the cost of and time lost to temporarily shutting down facilities.
+
 3. Is there space in the fields to place a structure such as a tower?
 Decisions Affected: If we are not able to place something in the field, we may not be able to implement our vibration solution in the currently intended method.
+
+
 
 
 Sources Cited
@@ -83,30 +88,46 @@ Professor Steve Heim on Monday, February 9th during the PM lab section
     <h2>Functional Prototype</h2>
     <p>
      What are you testing?
-	-the wind pressure/speed
-	-shape of the end of funnel 
-	-material analysis on the blower -> life cycle
-	-amount of force/pattern is required to push off lantern flies
+	
+    -the wind pressure/speed
+	
+    -shape of the end of funnel 
+	
+    -material analysis on the blower -> life cycle
+	
+    -amount of force/pattern is required to push off lantern flies
+
 How did you test it?
-	-wind speed: anemometer
-	-wind pressure: computed from wind velocity, cross section surface area
-	-shape of funnel: simulated from softwares (Fusion 360)
-	-material analysis: Flex test with hand
-	-required force/pattern: real life simulation with an insect (lantern fly)
+	
+    -wind speed: anemometer
+	
+    -wind pressure: computed from wind velocity, cross section surface area
+	
+    -shape of funnel: simulated from softwares (Fusion 360)
+	
+    -material analysis: Flex test with hand
+	
+    -required force/pattern: real life simulation with an insect (lantern fly)
 		- modeled using “grapes” simulated with tape and string in addition to a                                                  
                           cardboard lanternfly stuck onto the “vine” with tape
 
 	
 What happened?
+
 -wind speed: The motor was powered by 5V through Arduino Uno Minima Rev4 and generated 3,500 RPM. We were not able to use an anemometer so we found rpm via marking a fan then taking a slow motion video and counting the fan blades to get roughly 3,500 RPM.
-	-wind inlet/outlet velocity relation: See calculations below
-	-shape of funnel: The circular funnel results in an even distribution of pressure. 
-	-material analysis: The funnel (PLA) is slightly bendable by hand, which is acceptable for this prototype. However, this would need to be changed for a future prototype/final product.
-	-required force/pattern: A sudden burst of air is more effective than a constant stream of air, given the “flighty” nature of the SLFs. 
+	
+    -wind inlet/outlet velocity relation: See calculations below
+	
+    -shape of funnel: The circular funnel results in an even distribution of pressure. 
+	
+    -material analysis: The funnel (PLA) is slightly bendable by hand, which is acceptable for this prototype. However, this would need to be changed for a future prototype/final product.
+	
+    -required force/pattern: A sudden burst of air is more effective than a constant stream of air, given the “flighty” nature of the SLFs. 
 - IMG_0421.MOV: Video of Testing via Blowing into the Tube (need to increase wind pressure due to motor, see section on design improvements for details)
 
 
 Design changes/Improvements
+
 For better wind pressure/speed, we can add in a gearbox to the motor system to increase the speed of the fan. 
 We can add holes onto the bottom of the motor housing to increase the airflow and movement for the fan system (fan can draw in air from the outside).
 Need to increase the height of the side walls for the motor housing so that they encompass the fan blades properly
@@ -117,6 +138,7 @@ We can alter the fan blade design to optimize the air flow entering the tubing. 
 
 
 Success Criteria:
+
 In order to dispel the lantern flies from the intake of the harvester, must be able to blow off lantern flies on the vine. Must be able to blow off adult spotted lanternflies (on average mean weight is .331 grams according to https://www.stopslf.org/stopslf/assets/File/Spotted-Lanternfly-RTD-Proceedings-Oct-2024.pdf).
 The blower does not deviate more than 10 degrees from its original position when in use. EG firmly mounted and stiff materials for the funnel.
 The blower will be simplified to 1 unit to attach to the harvester.
@@ -138,18 +160,27 @@ used to send air in bursts to simultaneously agitate the SLF on the vine and phy
 vines without ejecting too much air, keeping the grapes on the vine. This would be a low cost, low effort,
 and low maintenance device to be easily mounted onto the grape harvester which would not interfere with
 the main use of the harvester itself or with the operator using it.
+
 Testing and Results:
+
 We were able to successfully meet our three criteria for success:
+
 ● Wind speed: We used an anemometer to find the speed of airflow output from our device. We set
 up two fixed sensors at the outlet and take the average of the measured wind velocity. We also ran
 wind tunnel simulation via Simscale on the funnel to estimate the aerodynamic properties.
+
 ○ Inlet Velocity: 3.1 m/s
+
 ○ Max Speed: 10.28 m/s
+
 ○ Max Pressure: 191.18 Pa
+
 ○ Dynamic Pressure: 183.75 Pa
 Figure 0x: Vertical and Horizontal Pressure Analysis
+
 ○ The wind speed was 10.28 m/s which was able to displace 23,743 cm3/s which is more
 than our value of 1,000 cm3/s
+
 ● Material Strength: Motor housing integrity was testing using force gauges, showing completely
 elastic deformation after 177 Newtons of force was applied. Due to lab limitations, we were not
 able to reach the breaking point of material. Further research showed that PLA has a tensile
@@ -157,31 +188,40 @@ strength of 40-60 MPa. Our PLA motor setup is able to handle the estimated vibra
 150 Newtons, similar to the forces the system would experience while in use.
 M6 Client Report: Page 2
 Figure 0x: Material Strength Test
+
 ● Knocking Flies off: We fabricated a mock grape vine and lanternfly setup, testing the
 effectiveness of the nozzle shape. It took ~1-2 sec. of blowing air to knock off the lanternflies,
 demonstrating the viability of our product
+
 ○ 1st Prototype Video: IMG_0421.MOV - Google Drive
+
 Prototype and Testing Details:
+
 3/31/26:
 Our initial design was not able to produce enough thrust on its own to be able to blow off the
 flies. We fixed this by supplying a higher voltage to the motor and also adjusting the housing to allow for
 more airflow into the device itself. We also adjusted the fan size and specs to allow for greater airflow
 into the device. We were able to build our testing apparatus and prove that air can blow off lanternflies
 showing our proposed idea is feasible, but we still hadn’t ironed out our design.
+
 4/6/26:
 We began to overhaul our entire design and remake the system to fit these new design ideas of
 different directional fan-blades and more airflow getting to the fan blade. We also platted around with the
 idea of implementing a gear box, but we determined that they weren’t necessary for our design
 considering the fan speeds we were able to reach. Not much physically built.
+
 4/13/26:
 We continued to prototype our device by modeling the entire mechanism in Fusion to be 3D
 printed and ordered the parts as well as specc’d the entire system for the power circuit.
+
 4/20/26:
 We constructed our final prototype by installing the directional fan blade, the motor, and the new
 motor housing and funnel. After fully constructing the final prototype, we tested the blade turning on and
 off using an arduino, the wind speed using an anemometer, and the material strength using a spring force
 sensor.
+
 Conclusion and Recommendation:
+
 We have determined that this is a viable product based on our tests. Next steps would be further
 testing to determine if it is effective on a living lanternfly and not just our model. Also testing on a
 moving grape in a combine harvester. All we have proven is that this product is viable and not that it is
