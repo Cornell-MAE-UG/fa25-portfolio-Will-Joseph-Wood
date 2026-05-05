@@ -57,7 +57,7 @@ image: "assets/images/SLF_Blower.png"
       Finding a way to remove the flies off of the vines as the harvester intakes the grapes is important to prevent them from tainting the crop.
     </p>
 
-    <p>###Why it matters to the end user:</p>
+    <p>Why it matters to the end user:</p>
 
     <p>
       If we reduce the amount of SLF present in the crop yield, we will be able to help the farmers financially,
@@ -73,10 +73,10 @@ image: "assets/images/SLF_Blower.png"
       The consumers will also benefit from the lower costs associated with the abundance of grape products.
     </p>
 
-    <p>###Proposed Directions:</p>
+    <p>Proposed Directions:</p>
 
     <p>
-      ##Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester.
+      Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester.
       This could be similar to the end of a car wash, but less strong.
     </p>
 
@@ -101,7 +101,7 @@ image: "assets/images/SLF_Blower.png"
     </p>
 
     <p>
-      ##Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps.
+      Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps.
     </p>
 
     <p>Towers with mechanical vibration devices to attract the SLF.</p>
@@ -119,7 +119,7 @@ image: "assets/images/SLF_Blower.png"
       and saves money because it is a one-time purchase, not a yearly cost.
     </p>
 
-    <p>###Key risks / unknowns:</p>
+    <p>Key risks / unknowns:</p>
 
     <p>Damage to grapes/vines.</p>
 
@@ -135,9 +135,9 @@ image: "assets/images/SLF_Blower.png"
       Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
     </p>
 
-    <p>###Our questions:</p>
+    <p>Our questions:</p>
 
-    <p>###1. When dealing with the SLFs, do they often stay on the vine when removing grapes?</p>
+    <p>1. When dealing with the SLFs, do they often stay on the vine when removing grapes?</p>
 
     <p>
       Decisions Affected: This would change our blower design,
@@ -145,7 +145,7 @@ image: "assets/images/SLF_Blower.png"
     </p>
 
     <p>
-      ###2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
+      2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
     </p>
 
     <p>
@@ -155,7 +155,7 @@ image: "assets/images/SLF_Blower.png"
       particularly in the cost of and time lost to temporarily shutting down facilities.
     </p>
 
-    <p>###3. Is there space in the fields to place a structure such as a tower?</p>
+    <p>3. Is there space in the fields to place a structure such as a tower?</p>
 
     <p>
       Decisions Affected: If we are not able to place something in the field,
