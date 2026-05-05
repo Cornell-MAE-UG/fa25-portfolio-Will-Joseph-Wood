@@ -304,7 +304,7 @@ image: "assets/images/SLF_Blower.png"
     <p><strong>Final Prototype and Application:</strong></p>
 
     <p>
-      We built a blower system to be mounted onto a Grape harvester.
+      We built a blower system to be mounted onto a Grape harvester. It utilized air to blow off the grapes off the harvester while maintaining grape yield. Utilized low moment of inertia of the flies along with their flighty behavior to achieve this.
     </p>
 
     <p>
@@ -319,11 +319,11 @@ image: "assets/images/SLF_Blower.png"
 
     <p>We successfully met our criteria:</p>
 
-    <p>Wind speed testing and simulation completed.</p>
+    <p>Wind speed was recorded as over 3.1 m/s which was the perfect speed we wanted.</p>
 
-    <p>Material strength validated.</p>
+    <p>Material strength validated via a force probe showing it survives forces greater than 150 N, which is the projected max forces that it would experience in use..</p>
 
-    <p>SLFs removed in ~1–2 seconds.</p>
+    <p>SLFs from our mockup removed in ~1–2 seconds.</p>
 
     <p><strong>Prototype Timeline:</strong></p>
 
