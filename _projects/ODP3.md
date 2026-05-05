@@ -27,6 +27,8 @@ image: "assets/images/SLF_Blower.png"
 
   <hr>
 
+  <!-- ================= CLIENT PITCH ================= -->
+
   <section id="client-pitch">
     <h2>Client Pitch</h2>
 
@@ -39,9 +41,7 @@ image: "assets/images/SLF_Blower.png"
       Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
     </p>
 
-    <p>
-      Problem Statement:
-    </p>
+    <p>###Problem Statement:</p>
 
     <p>
       Just 1-2 adult spotted lantern flies (SLF) can taint a kilogram of grade slurry;
@@ -57,9 +57,7 @@ image: "assets/images/SLF_Blower.png"
       Finding a way to remove the flies off of the vines as the harvester intakes the grapes is important to prevent them from tainting the crop.
     </p>
 
-    <p>
-      Why it matters to the end user:
-    </p>
+    <p>###Why it matters to the end user:</p>
 
     <p>
       If we reduce the amount of SLF present in the crop yield, we will be able to help the farmers financially,
@@ -75,18 +73,14 @@ image: "assets/images/SLF_Blower.png"
       The consumers will also benefit from the lower costs associated with the abundance of grape products.
     </p>
 
-    <p>
-      Proposed Directions:
-    </p>
+    <p>###Proposed Directions:</p>
 
     <p>
-      Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester.
+      ##Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester.
       This could be similar to the end of a car wash, but less strong.
     </p>
 
-    <p>
-      Attached in front of the harvester pointing outward toward the grape vines.
-    </p>
+    <p>Attached in front of the harvester pointing outward toward the grape vines.</p>
 
     <p>
       A fan would blow a steady stream of air toward the vines, causing the SLF to fly outwards to avoid the irritation.
@@ -107,20 +101,14 @@ image: "assets/images/SLF_Blower.png"
     </p>
 
     <p>
-      Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps.
+      ##Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps.
     </p>
 
-    <p>
-      Towers with mechanical vibration devices to attract the SLF.
-    </p>
+    <p>Towers with mechanical vibration devices to attract the SLF.</p>
 
-    <p>
-      An electrified outer cage to shock the SLF when they touch the trap.
-    </p>
+    <p>An electrified outer cage to shock the SLF when they touch the trap.</p>
 
-    <p>
-      A container below to catch the dead SLF for easy removal.
-    </p>
+    <p>A container below to catch the dead SLF for easy removal.</p>
 
     <p>
       This is better than the “status quo” because it eliminates SLF year-round without having to continuously spray.
@@ -131,56 +119,43 @@ image: "assets/images/SLF_Blower.png"
       and saves money because it is a one-time purchase, not a yearly cost.
     </p>
 
-    <p>
-      Key risks / unknowns:
-    </p>
+    <p>###Key risks / unknowns:</p>
 
     <p>Damage to grapes/vines.</p>
 
-    <p>
-      Test by seeing how much wind store-bought grapes can take before falling off the vine.
-    </p>
+    <p>Test by seeing how much wind store-bought grapes can take before falling off the vine.</p>
 
     <p>Lanternflies getting stuck in the blower</p>
 
-    <p>
-      Test with different geometries of the mechanical design of the tube
-    </p>
+    <p>Test with different geometries of the mechanical design of the tube</p>
 
-    <p>
-      Blower’s force is not strong enough to detach lanternflies from grapes
-    </p>
+    <p>Blower’s force is not strong enough to detach lanternflies from grapes</p>
 
     <p>
       Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
     </p>
 
+    <p>###Our questions:</p>
+
+    <p>###1. When dealing with the SLFs, do they often stay on the vine when removing grapes?</p>
+
     <p>
-      Our questions:
+      Decisions Affected: This would change our blower design,
+      as we would need to prototype to make sure that we do not remove grapes as well as the SLFs.
     </p>
 
     <p>
-      1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
-    </p>
-
-    <p>
-      Decisions Affected: This would change our blower design, as we would need to prototype
-      to make sure that we do not remove grapes as well as the SLFs.
-    </p>
-
-    <p>
-      2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
+      ###2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
     </p>
 
     <p>
       Decisions Affected: While this would not directly affect our decision making,
-      this would clarify the impact on the end user, since we would be more aware of the negative impacts
-      of SLF contamination, particularly in the cost of and time lost to temporarily shutting down facilities.
+      this would clarify the impact on the end user,
+      since we would be more aware of the negative impacts of SLF contamination,
+      particularly in the cost of and time lost to temporarily shutting down facilities.
     </p>
 
-    <p>
-      3. Is there space in the fields to place a structure such as a tower?
-    </p>
+    <p>###3. Is there space in the fields to place a structure such as a tower?</p>
 
     <p>
       Decisions Affected: If we are not able to place something in the field,
@@ -200,3 +175,173 @@ image: "assets/images/SLF_Blower.png"
     </p>
 
   </section>
+
+  <!-- ================= FUNCTIONAL PROTOTYPE ================= -->
+
+  <section id="functional-prototype">
+    <h2>Functional Prototype</h2>
+
+    <p>What are you testing?</p>
+
+    <p>- the wind pressure/speed</p>
+    <p>- shape of the end of funnel</p>
+    <p>- material analysis on the blower -> life cycle</p>
+    <p>- amount of force/pattern is required to push off lantern flies</p>
+
+    <p>How did you test it?</p>
+
+    <p>- wind speed: anemometer</p>
+    <p>- wind pressure: computed from wind velocity, cross section surface area</p>
+    <p>- shape of funnel: simulated from softwares (Fusion 360)</p>
+    <p>- material analysis: Flex test with hand</p>
+    <p>
+      - required force/pattern: real life simulation with an insect (lantern fly)
+    </p>
+
+    <p>
+      - modeled using “grapes” simulated with tape and string in addition to a cardboard lanternfly stuck onto the “vine” with tape
+    </p>
+
+    <p>What happened?</p>
+
+    <p>
+      - wind speed: The motor was powered by 5V through Arduino Uno Minima Rev4 and generated 3,500 RPM.
+    </p>
+
+    <p>
+      We were not able to use an anemometer so we found rpm via marking a fan then taking a slow motion video
+      and counting the fan blades to get roughly 3,500 RPM.
+    </p>
+
+    <p>- wind inlet/outlet velocity relation: See calculations below</p>
+
+    <p>- shape of funnel: The circular funnel results in an even distribution of pressure.</p>
+
+    <p>
+      - material analysis: The funnel (PLA) is slightly bendable by hand,
+      which is acceptable for this prototype.
+    </p>
+
+    <p>
+      However, this would need to be changed for a future prototype/final product.
+    </p>
+
+    <p>
+      - required force/pattern: A sudden burst of air is more effective than a constant stream of air,
+      given the “flighty” nature of the SLFs.
+    </p>
+
+    <p>
+      - IMG_0421.MOV: Video of Testing via Blowing into the Tube
+    </p>
+
+    <p>(need to increase wind pressure due to motor, see section on design improvements for details)</p>
+
+    <p><strong>Design changes/Improvements</strong></p>
+
+    <p>For better wind pressure/speed, we can add in a gearbox to the motor system to increase the speed of the fan.</p>
+
+    <p>
+      We can add holes onto the bottom of the motor housing to increase the airflow and movement for the fan system.
+    </p>
+
+    <p>Need to increase the height of the side walls for the motor housing.</p>
+
+    <p>We need to expand hole sizes due to tolerance issues.</p>
+
+    <p>Add a planetary gearbox to step up speed.</p>
+
+    <p>Add tube fittings to prevent air leakage.</p>
+
+    <p>
+      Alter the fan blade design to optimize airflow.
+    </p>
+
+    <p><strong>Success Criteria:</strong></p>
+
+    <p>
+      Must be able to blow off lantern flies on the vine.
+    </p>
+
+    <p>
+      Must remove adult SLFs (~0.331 g average weight).
+    </p>
+
+    <p>
+      The blower does not deviate more than 10 degrees.
+    </p>
+
+    <p>
+      The blower will be simplified to 1 unit.
+    </p>
+
+    <p>
+      The blower will start/stop in under 1 second.
+    </p>
+
+  </section>
+
+  <!-- ================= CLIENT REPORT ================= -->
+
+  <section id="client-report">
+    <h2>Client Report</h2>
+
+    <p><strong>Context and Problem Statement:</strong></p>
+
+    <p>
+      The problem we chose to focus on was stopping the spotted lantern flies from entering the harvester and tainting the product.
+    </p>
+
+    <p>
+      Just 1 to 2 SLF’s in a kilogram grape slurry can taint the batch.
+    </p>
+
+    <p>
+      By choosing to stop them before the harvesting process,
+      we also stop the need to sort out SLF’s from the harvest and prevent any damage they may cause.
+    </p>
+
+    <p><strong>Final Prototype and Application:</strong></p>
+
+    <p>
+      We built a blower system to be mounted onto a Grape harvester.
+    </p>
+
+    <p>
+      The blower system sends bursts of air to remove SLFs without ejecting grapes.
+    </p>
+
+    <p>
+      It is low cost, low effort, and low maintenance.
+    </p>
+
+    <p><strong>Testing and Results:</strong></p>
+
+    <p>We successfully met our criteria:</p>
+
+    <p>Wind speed testing and simulation completed.</p>
+
+    <p>Material strength validated.</p>
+
+    <p>SLFs removed in ~1–2 seconds.</p>
+
+    <p><strong>Prototype Timeline:</strong></p>
+
+    <p>3/31/26: Initial testing and airflow improvements</p>
+    <p>4/6/26: Redesign and airflow optimization</p>
+    <p>4/13/26: CAD and fabrication planning</p>
+    <p>4/20/26: Final build and testing</p>
+
+    <p><strong>Conclusion and Recommendation:</strong></p>
+
+    <p>
+      The product is viable based on testing.
+    </p>
+
+    <p>
+      Future work includes testing with real SLFs and scaling the system.
+    </p>
+
+  </section>
+
+</section>
