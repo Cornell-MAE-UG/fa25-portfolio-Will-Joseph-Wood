@@ -30,28 +30,28 @@ image: "assets/images/SLF_Blower.png"
       SLF Mechanical Repellant from Grape Harvester
 Team Name: Lanternfly Killers Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
-Problem Statement: 
+###Problem Statement: 
 Just 1-2 adult spotted lantern flies (SLF) can taint a kilogram of grade slurry; with how prevalent they are, this can add up rapidly. Farmers are searching for ways of managing the SLF population without diminishing the potential crop yield. One way that the SLF population enters the crop yield is via the harvester during harvest. Finding a way to remove the flies off of the vines as the harvester intakes the grapes is important to prevent them from tainting the crop.
 
-Why it matters to the end user: 
+###Why it matters to the end user: 
 If we reduce the amount of SLF present in the crop yield, we will be able to help the farmers financially, since less crop will be thrown away due to SLF contamination. In addition, there will be less scarcity of grape products, since more products will make their way to the shelves, allowing businesses to not lose customers or profit. The consumers will also benefit from the lower costs associated with the abundance of grape products.
 
-Proposed Directions: 
-Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester. This could be similar to the end of a car wash, but less strong.
+###Proposed Directions: 
+##Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester. This could be similar to the end of a car wash, but less strong.
 Attached in front of the harvester pointing outward toward the grape vines. 
 A fan would blow a steady stream of air toward the vines, causing the SLF to fly outwards to avoid the irritation. 
 The flow of air would also stop the SLF from flying into the harvester after they left the vine. 
 This is better than the “status quo” of using chemicals to deter or remove SLF from the grapes, since the chemicals may end up contaminating the grape product, making it unusable.
 This is better than the “status quo” in the way that it doesn’t just scare away bugs but physically moves them to a singular destination and traps them.
 
-Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps. 
+##Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps. 
 Towers with mechanical vibration devices to attract the SLF.
 An electrified outer cage to shock the SLF when they touch the trap.
 A container below to catch the dead SLF for easy removal.
 This is better than the “status quo” because it eliminates SLF year-round without having to continuously spray.
  This is better than the “status quo”  because it does not require any changes to the harvester and saves money because it is a one-time purchase, not a yearly cost. 
 
-Key risks / unknowns:
+###Key risks / unknowns:
 
 Damage to grapes/vines.
 Test by seeing how much wind store-bought grapes can take before falling off the vine.
@@ -60,14 +60,14 @@ Test with different geometries of the mechanical design of the tube
 Blower’s force is not strong enough to detach lanternflies from grapes
 Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
 
-Our questions:
-1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
+###Our questions:
+###1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
 Decisions Affected: This would change our blower design, as we would need to prototype to make sure that we do not remove grapes as well as the SLFs.
 
-2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
+###2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
 Decisions Affected: While this would not directly affect our decision making, this would clarify the impact on the end user, since we would be more aware of the negative impacts of SLF contamination, particularly in the cost of and time lost to temporarily shutting down facilities.
 
-3. Is there space in the fields to place a structure such as a tower?
+###3. Is there space in the fields to place a structure such as a tower?
 Decisions Affected: If we are not able to place something in the field, we may not be able to implement our vibration solution in the currently intended method.
 
 
@@ -227,10 +227,6 @@ testing to determine if it is effective on a living lanternfly and not just our 
 moving grape in a combine harvester. All we have proven is that this product is viable and not that it is
 inherently usable in its current state. It would also be beneficial to build a much larger fan system (maybe
 utilize compressed air) and have it hooked up to multiple blowers and see how that fairs.
-    </p>
-
-    <p>
-      <a href="Client_Report.pdf" target="_blank">View full Client Report PDF</a>
     </p>
   </section>
 </section>
