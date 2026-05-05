@@ -11,13 +11,8 @@ image: "assets/images/SLF_Blower.png"
 
   <p>
     This project focused on developing a client-centered engineering solution.
-    The purpose is to find ways to deal with the invasive lanternfly species
-    plaguing the wine and grape industry.
-  </p>
-
-  <p>
-    The goal is to engineer a device to reduce the SLF population and help
-    farmers mitigate crop loss.
+    The purpose is to find ways to deal with the invasive lanternfly species plaguing the wine and grape industry.
+    The goal is to engineer a device to deal with the SLF population in some capacity and help farmers from the SLF struggle.
   </p>
 
   <h2>Milestones</h2>
@@ -32,176 +27,176 @@ image: "assets/images/SLF_Blower.png"
 
   <hr>
 
-  <!-- ================= CLIENT PITCH ================= -->
-
   <section id="client-pitch">
     <h2>Client Pitch</h2>
 
-    <p><strong>Team Name:</strong> Lanternfly Killers</p>
-    <p><strong>Clients:</strong> Cornell CALS Extension / E&amp;J Gallo Winery / National Grape</p>
-
-    <h3>Problem Statement</h3>
     <p>
-      Just 1–2 adult spotted lantern flies (SLF) can taint a kilogram of grape slurry.
-      Due to their prevalence, this becomes a major issue during harvesting.
+      SLF Mechanical Repellant from Grape Harvester
     </p>
 
     <p>
-      SLFs enter the crop via the harvester. Removing them before intake is critical
-      to preventing contamination and preserving yield.
+      Team Name: Lanternfly Killers  
+      Client(s): Cornell CALS Extension / E\&J Gallo Winery / National Grape
     </p>
 
-    <h3>Why It Matters</h3>
-    <ul>
-      <li>Reduces crop loss and improves farmer profit</li>
-      <li>Increases product availability</li>
-      <li>Lowers consumer costs</li>
-    </ul>
+    <p>
+      Problem Statement:
+    </p>
 
-    <h3>Proposed Solutions</h3>
+    <p>
+      Just 1-2 adult spotted lantern flies (SLF) can taint a kilogram of grade slurry;
+      with how prevalent they are, this can add up rapidly.
+    </p>
 
-    <h4>Concept A: Blower System</h4>
-    <ul>
-      <li>Mounted to front of harvester</li>
-      <li>Blows SLF off vines before intake</li>
-      <li>Prevents re-entry into harvester</li>
-      <li>Avoids chemical contamination</li>
-    </ul>
+    <p>
+      Farmers are searching for ways of managing the SLF population without diminishing the potential crop yield.
+    </p>
 
-    <h4>Concept B: Vibration Attraction Device</h4>
-    <ul>
-      <li>Towers vibrating at 60 Hz</li>
-      <li>Attract SLFs to traps</li>
-      <li>Electrified cage eliminates SLF</li>
-      <li>Year-round solution</li>
-    </ul>
+    <p>
+      One way that the SLF population enters the crop yield is via the harvester during harvest.
+      Finding a way to remove the flies off of the vines as the harvester intakes the grapes is important to prevent them from tainting the crop.
+    </p>
 
-    <h3>Key Risks / Unknowns</h3>
-    <ul>
-      <li>Damage to grapes/vines</li>
-      <li>Blower strength insufficient</li>
-      <li>Lanternflies getting stuck in system</li>
-    </ul>
+    <p>
+      Why it matters to the end user:
+    </p>
 
-    <h3>Questions</h3>
-    <ol>
-      <li>
-        Do SLFs stay on vines during harvesting?
-        <br><em>Impact:</em> Affects blower design.
-      </li>
+    <p>
+      If we reduce the amount of SLF present in the crop yield, we will be able to help the farmers financially,
+      since less crop will be thrown away due to SLF contamination.
+    </p>
 
-      <li>
-        Do facilities require shutdown after contamination?
-        <br><em>Impact:</em> Determines cost implications.
-      </li>
+    <p>
+      In addition, there will be less scarcity of grape products, since more products will make their way to the shelves,
+      allowing businesses to not lose customers or profit.
+    </p>
 
-      <li>
-        Is there space for tower systems in fields?
-        <br><em>Impact:</em> Determines feasibility of vibration system.
-      </li>
-    </ol>
+    <p>
+      The consumers will also benefit from the lower costs associated with the abundance of grape products.
+    </p>
 
-    <h3>Sources</h3>
-    <ul>
-      <li>60 Hz vibration study (USDA)</li>
-      <li>Professor Steve Heim (lab session)</li>
-    </ul>
+    <p>
+      Proposed Directions:
+    </p>
+
+    <p>
+      Concept A: Blower; A system of devices attached to the front of the harvester to blow the SLF off of the vines before they can enter the harvester.
+      This could be similar to the end of a car wash, but less strong.
+    </p>
+
+    <p>
+      Attached in front of the harvester pointing outward toward the grape vines.
+    </p>
+
+    <p>
+      A fan would blow a steady stream of air toward the vines, causing the SLF to fly outwards to avoid the irritation.
+    </p>
+
+    <p>
+      The flow of air would also stop the SLF from flying into the harvester after they left the vine.
+    </p>
+
+    <p>
+      This is better than the “status quo” of using chemicals to deter or remove SLF from the grapes,
+      since the chemicals may end up contaminating the grape product, making it unusable.
+    </p>
+
+    <p>
+      This is better than the “status quo” in the way that it doesn’t just scare away bugs
+      but physically moves them to a singular destination and traps them.
+    </p>
+
+    <p>
+      Concept B: Vibration Attraction Device; A set of towers vibrating at 60 Hz placed around the field to attract the SLF to liquid chemical traps.
+    </p>
+
+    <p>
+      Towers with mechanical vibration devices to attract the SLF.
+    </p>
+
+    <p>
+      An electrified outer cage to shock the SLF when they touch the trap.
+    </p>
+
+    <p>
+      A container below to catch the dead SLF for easy removal.
+    </p>
+
+    <p>
+      This is better than the “status quo” because it eliminates SLF year-round without having to continuously spray.
+    </p>
+
+    <p>
+      This is better than the “status quo” because it does not require any changes to the harvester
+      and saves money because it is a one-time purchase, not a yearly cost.
+    </p>
+
+    <p>
+      Key risks / unknowns:
+    </p>
+
+    <p>Damage to grapes/vines.</p>
+
+    <p>
+      Test by seeing how much wind store-bought grapes can take before falling off the vine.
+    </p>
+
+    <p>Lanternflies getting stuck in the blower</p>
+
+    <p>
+      Test with different geometries of the mechanical design of the tube
+    </p>
+
+    <p>
+      Blower’s force is not strong enough to detach lanternflies from grapes
+    </p>
+
+    <p>
+      Take weight samples of lanternflies and their grab force to calculate the amount of wind force needed to remove them.
+    </p>
+
+    <p>
+      Our questions:
+    </p>
+
+    <p>
+      1. When dealing with the SLFs, do they often stay on the vine when removing grapes?
+    </p>
+
+    <p>
+      Decisions Affected: This would change our blower design, as we would need to prototype
+      to make sure that we do not remove grapes as well as the SLFs.
+    </p>
+
+    <p>
+      2. If SLF contamination occurs in grape products, do the machines in the processing facilities need to be shut down and cleaned afterwards?
+    </p>
+
+    <p>
+      Decisions Affected: While this would not directly affect our decision making,
+      this would clarify the impact on the end user, since we would be more aware of the negative impacts
+      of SLF contamination, particularly in the cost of and time lost to temporarily shutting down facilities.
+    </p>
+
+    <p>
+      3. Is there space in the fields to place a structure such as a tower?
+    </p>
+
+    <p>
+      Decisions Affected: If we are not able to place something in the field,
+      we may not be able to implement our vibration solution in the currently intended method.
+    </p>
+
+    <p><strong>Sources Cited</strong></p>
+
+    <p>
+      60 Hz vibration study:  
+      https://www.ars.usda.gov/research/publications/publication/?seqNo115=392118
+    </p>
+
+    <p>
+      SLF needed to contaminate 1 kg slurry:  
+      Professor Steve Heim on Monday, February 9th during the PM lab section
+    </p>
 
   </section>
-
-  <!-- ================= FUNCTIONAL PROTOTYPE ================= -->
-
-  <section id="functional-prototype">
-    <h2>Functional Prototype</h2>
-
-    <h3>What We Tested</h3>
-    <ul>
-      <li>Wind speed and pressure</li>
-      <li>Funnel shape</li>
-      <li>Material durability</li>
-      <li>Force required to remove SLFs</li>
-    </ul>
-
-    <h3>Testing Methods</h3>
-    <ul>
-      <li>Anemometer for wind speed</li>
-      <li>Fusion 360 simulations</li>
-      <li>Manual flex testing</li>
-      <li>Mock grape + SLF setup</li>
-    </ul>
-
-    <h3>Results</h3>
-    <ul>
-      <li>~3500 RPM motor speed</li>
-      <li>Even pressure distribution with circular funnel</li>
-      <li>PLA material acceptable for prototype</li>
-      <li>Burst airflow more effective than steady stream</li>
-    </ul>
-
-    <h3>Design Improvements</h3>
-    <ul>
-      <li>Add gearbox for increased speed</li>
-      <li>Improve airflow intake</li>
-      <li>Increase housing size</li>
-      <li>Fix tolerance issues in parts</li>
-      <li>Optimize fan blade design</li>
-    </ul>
-
-    <h3>Success Criteria</h3>
-    <ul>
-      <li>Remove SLFs without damaging grapes</li>
-      <li>Stable mounting system</li>
-      <li>Fast response (on/off < 1 sec)</li>
-      <li>Compact, single-unit design</li>
-    </ul>
-
-  </section>
-
-  <!-- ================= CLIENT REPORT ================= -->
-
-  <section id="client-report">
-    <h2>Client Report</h2>
-
-    <h3>Problem</h3>
-    <p>
-      Prevent SLFs from entering the harvester and contaminating grape slurry.
-    </p>
-
-    <h3>Final Solution</h3>
-    <p>
-      A blower system that sends bursts of air to remove SLFs without damaging grapes.
-    </p>
-
-    <h3>Results</h3>
-    <ul>
-      <li>Wind speed: 10.28 m/s</li>
-      <li>Max pressure: 191.18 Pa</li>
-      <li>Material withstands ~150 N force</li>
-      <li>SLFs removed in ~1–2 seconds</li>
-    </ul>
-
-    <h3>Prototype Development Timeline</h3>
-    <ul>
-      <li><strong>3/31:</strong> Initial testing + airflow improvements</li>
-      <li><strong>4/6:</strong> Redesign and airflow optimization</li>
-      <li><strong>4/13:</strong> CAD + fabrication planning</li>
-      <li><strong>4/20:</strong> Final prototype + testing</li>
-    </ul>
-
-    <h3>Conclusion</h3>
-    <p>
-      The product is viable based on testing. Further testing is needed with real
-      SLFs and moving harvest systems.
-    </p>
-
-    <h3>Next Steps</h3>
-    <ul>
-      <li>Test on live SLFs</li>
-      <li>Test on moving harvester</li>
-      <li>Scale up blower system</li>
-      <li>Explore compressed air systems</li>
-    </ul>
-
-  </section>
-
-</section>
